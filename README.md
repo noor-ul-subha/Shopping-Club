@@ -22,4 +22,3 @@ Output screenshots in E-Commerce Website UI.pdf
 
 Author:
 Noor Ul SUbha
-(SP25-BSE-016)
