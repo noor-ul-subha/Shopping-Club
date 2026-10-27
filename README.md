@@ -58,4 +58,4 @@ Shopping Club is a simple e-commerce website that provides users with an online 
 
 Screenshots of the website are available in `E-Commerce Website UI.pdf`.
 
-**Author:** Noor Ul Subha
+## Author: Noor Ul Subha
