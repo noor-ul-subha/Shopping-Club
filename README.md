@@ -1,4 +1,4 @@
-# Shopping Club – E-Commerce Website
+# Shopping Club_E-Commerce Website UI
 
 ## 1. About the Project
 
@@ -31,21 +31,12 @@ Shopping Club is a simple e-commerce website that provides users with an online 
 
 ## 5. Project Structure
 
-```text
-Shopping-Club/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-├── E-Commerce Website UI.pdf
-└── images/
-    ├── headphones.jpg
-    ├── watch.jpg
-    ├── shoes.jpg
-    ├── handbag.jpg
-    └── shoppingclub.jpg.jpg
-```
+* **index.html** — Contains the structure and content of the website.
+* **style.css** — Handles the website's design, colors, layout, and responsive styling.
+* **script.js** — Manages product search, the cart counter, and the shopping assistant demo.
+* **images/** — Contains product images and the website banner.
+* **README.md** — Provides information about the project, its features, and how to run it.
+* **E-Commerce Website UI.pdf** — Contains screenshots of the website.
 
 ## 6. How to Run
 
